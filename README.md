@@ -1,2 +1,2 @@
 # bash
-bash scripts
+bash scripts examples made by me while learning to code.
